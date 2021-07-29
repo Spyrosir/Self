@@ -58,7 +58,7 @@ banChats = true
 offline = false
 targetpc = '6285875158363'
 owner = '6285875158363'
-fake = 'NAZE'
+fake = 'SPYRO
 numbernye = '0'
 waktu = '-'
 alasan = '-'
@@ -112,7 +112,7 @@ module.exports = naze = async (naze, mek) => {
 
         //MESS
 		mess = {
-			wait: 'Otewe',
+			wait: WAIT
 			success: 'Berhasil!',
 			wrongFormat: 'Format salah, coba liat lagi di menu',
 			error: {
